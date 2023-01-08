@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello I'm Youngchan Ahn
+On the way to being a developer
 
 <!--
 **ycahnn/ycahnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
